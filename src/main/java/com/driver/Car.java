@@ -19,6 +19,7 @@ public class Car extends Vehicle {
     	this.isManual=isManual;
     	this.type=type;
     	
+    	
     }
 
     public Car(String name) {
